@@ -1,0 +1,5 @@
+Gemfile.lock
+pkg/
+tmp/
+.DS_Store
+
